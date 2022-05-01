@@ -1,0 +1,4 @@
+com\epam\liquibasedemo\EmployeeController.class
+com\epam\liquibasedemo\Employee.class
+com\epam\liquibasedemo\EmployeeRepository.class
+com\epam\liquibasedemo\LiquibaseDemoApplication.class
