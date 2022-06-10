@@ -8,6 +8,7 @@ public class LiquibaseDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LiquibaseDemoApplication.class, args);
+		System.out.println();
 	}
 
 }
